@@ -10,19 +10,11 @@ able to learn skills and apply them in creating projects.
 [1st year portfolio](https://johnyncierto.my.canva.site/)
 
 - Web application portfolio
-  [Web applications portfolio](https://johnyncierto.github.io)
-
-
+[Web applications portfolio](https://johnyncierto.github.io)
 
 
 ---
-## 📗 User Manual 
-[USER MANUAL.md](UserManual.md)
+## Latest Project: AquaAligned
+[AquaAligned](https://github.com/LegionRevenant/Aqua-Aligned.git)
 ---
 
----
-## Developers 
-1. John Herbert Yncierto
-2. Dan Blair Bapilar
-3. John Lawrence ALovera
----
