@@ -7,9 +7,9 @@ able to learn skills and apply them in creating projects.
 ## Links to portfolio
 
 - 1st year portfolio
-[Link Text]([https://example.com](https://johnyncierto.my.canva.site/))
+[Link Text](https://johnyncierto.my.canva.site/)
 
--Web application portfolio
+- Web application portfolio
 [Link Text](JohnYncierto.github.io)
 
 
