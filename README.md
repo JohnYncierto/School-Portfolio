@@ -14,7 +14,8 @@ able to learn skills and apply them in creating projects.
 
 
 ---
-## Latest Project: AquaAligned
+## Latest Project: AquaAligned by Team BAY
+
 [AquaAligned](https://github.com/LegionRevenant/Aqua-Aligned.git)
 ---
 
