@@ -1,15 +1,19 @@
 # School-Portfolio
 
-**AquaAligned** is a web-integrated water monitoring system powered by IoT technology. It enables real-time tracking of water tank levels and temperature through ultrasonic sensors, providing users with live data, usage history, and automated alerts. Designed for households and small facilities, AquaAligned promotes efficient water management, reduces waste, and supports sustainability — especially in areas with limited access to reliable water monitoring.
+I am John Herbert Yncierto, a 2nd year at MMCM in the CCIS BS CS course. After studying for 2 years as a computer science student, I was
+able to learn skills and apply them in creating projects.
 
 ---
-## 💡 What It Does
+## Links to portfolio
 
-- 🌊 Monitors water tank levels in real-time using ultrasonic sensors
-- 🌡️ Tracks water temperature for safety and efficiency
-- 📈 Logs daily usage automatically and displays historical trends
-- 🔔 Sends alerts when water level falls below a defined threshold
-- 🧠 Provides insights through a smart web dashboard for better water management
+- 1st year portfolio
+[Link Text]([https://example.com](https://johnyncierto.my.canva.site/))
+
+-Web application portfolio
+[Link Text](JohnYncierto.github.io)
+
+
+
 
 ---
 ## 📗 User Manual 
