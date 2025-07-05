@@ -15,7 +15,14 @@ able to learn skills and apply them in creating projects.
 
 ---
 ## Latest Project: AquaAligned by Team BAY
-
 [AquaAligned](https://github.com/LegionRevenant/Aqua-Aligned.git)
+
+<p align="center">
+  <img src="assets/BAY.jpg" width="300" alt="BAY Logo"/>
+</p>
+
+**Team BAY** members are John Herbert Yncierto, Dan Blair Bapilar, and John Lawrence Alovera.
+We developed AquaAligned, an IoT and web application system that monitors a water tank's 
+water level and temperature, and provides logging for historical data analysis.
 ---
 
